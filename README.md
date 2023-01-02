@@ -7,7 +7,7 @@ Made a seamless user interface with HTML and CSS through numerous iterations of 
 
 Back-end: 
 
-Fetched weather data from openweathermap.org and changed the units to Celsius. 
+Fetched weather data from openweathermap.org and converted the units to Celsius. 
 
 Designed an error message when city is entered incorrectly. 
 
