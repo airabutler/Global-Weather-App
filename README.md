@@ -13,4 +13,6 @@ Designed an error message when city is entered incorrectly.
 
 Ensured variables such as temperature, humidity, wind speed and description changed timely according to the city typed in. 
 
-As a plus, background images show up to fit the weather of the city typed in, and Dallas is the default weather (of course).
+As a plus, background images show up to fit the current weather of the city typed in, and once the web application starts up, Dallas is the default weather (of course).
+
+<img width="1439" alt="Dallas 1" src="https://user-images.githubusercontent.com/117504514/210293363-9ef3ad2d-be0b-4c56-afa8-cc63a3d0b11a.png">
