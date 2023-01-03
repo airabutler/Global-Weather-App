@@ -1,5 +1,5 @@
 # Global-Weather-App
-  Created a full-stack weather application using HTML, CSS and Javascript. The application utilizes data from a weather API found on openweathermap.org.
+  Created a full-stack weather wep application using HTML, CSS and Javascript. The application utilizes data from a weather API found on openweathermap.org.
 
 Front-end: 
 
