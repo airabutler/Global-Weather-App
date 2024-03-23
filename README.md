@@ -1,7 +1,7 @@
 # Global Weather App
 
 ## Overview
-Global Weather App is a full-stack weather web application that provides users with real-time weather information for cities worldwide. The application utilizes HTML, CSS, and JavaScript for the front-end and fetches weather data from the OpenWeatherMap API for the back-end functionality.
+Global Weather App is a weather tracking web application that provides users with real-time weather information for cities worldwide. The application utilizes HTML, CSS, and JavaScript for the front-end and fetches weather data from the OpenWeatherMap API for the back-end functionality.
 
 ## Features
 
